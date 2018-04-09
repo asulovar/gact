@@ -2,7 +2,6 @@
 
 # Written by Robert Howe. Edited by Arvis Sulovari (last edit: July 10, 2014)
 
-
 # Echo commands as they are run.
 
 # Print usage if necessary
